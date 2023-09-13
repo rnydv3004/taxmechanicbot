@@ -1,0 +1,22 @@
+{
+  "name": "taxmechanicbot",
+  "version": "1.0.0",
+  "description": "Created by Aryan Yadav. The purpose is to create an api of an requirement which needs to be implement on a no-code platform Soft. Softr provides an option to write custom code and there this api will call. This api is a chatbot response trained for  specific business. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/core": "^4.26.1",
+    "@nlpjs/lang-en-min": "^4.26.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.3.1",
+    "import-fresh": "^3.3.0",
+    "node-nlp": "^4.27.0"
+  }
+}
